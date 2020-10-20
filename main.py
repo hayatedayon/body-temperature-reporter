@@ -25,6 +25,7 @@ NAME_TUPLE = (
     'lat',
     'lon',
     'jdgSanshoFlg',
+    'ecCd',
     'saigaiBean.knkySanshSybt',
     'saigaiJykyBean.ekakCstmrCd',
     'saigaiJykyBean.saigaiCd',
